@@ -1,2 +1,2 @@
 # jbrouwer5.github.io
-Personal Website
+Hosting on my resume online using GitHub Pages

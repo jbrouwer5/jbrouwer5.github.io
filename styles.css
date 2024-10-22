@@ -1,0 +1,119 @@
+/* General body styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f7f6;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+}
+
+/* Header styles */
+header {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+h1 {
+    font-size: 2.5rem;
+    color: #444;
+}
+
+p {
+    color: #666;
+}
+
+.filter-section {
+    margin-top: 10px;
+}
+
+label {
+    font-size: 1rem;
+    margin-right: 10px;
+}
+
+/* Styling the select dropdown */
+select {
+    padding: 5px 10px;
+    font-size: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+/* Table styles */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: #fff;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+}
+
+/* Table header styles */
+thead {
+    background-color: #444;
+    color: #fff;
+    font-size: 1.2rem;
+    text-align: left;
+}
+
+th, td {
+    padding: 15px;
+    border-bottom: 1px solid #eee;
+}
+
+td {
+    color: #555;
+}
+
+/* Row hover effect */
+tr:hover {
+    background-color: #f9f9f9;
+}
+
+/* Link styles */
+a {
+    color: #3498db;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Checkbox and filter styles */
+input[type="checkbox"] {
+    margin-right: 10px;
+    transform: scale(1.2);
+}
+
+/* Difficulty and tag styles */
+span {
+    background-color: #eee;
+    border-radius: 5px;
+    padding: 5px 10px;
+    font-size: 0.9rem;
+    color: #555;
+    display: inline-block;
+}
+
+td > div span {
+    margin-right: 10px;
+}
+
+/* Footer styles */
+footer {
+    margin-top: 40px;
+    text-align: center;
+    font-size: 0.9rem;
+}
+
+footer a {
+    color: #444;
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}

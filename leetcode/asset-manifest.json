@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/leetcode/static/css/main.5a27fa62.css",
+    "main.js": "/leetcode/static/js/main.7c448eba.js",
+    "static/js/453.660e556e.chunk.js": "/leetcode/static/js/453.660e556e.chunk.js",
+    "index.html": "/leetcode/index.html",
+    "main.5a27fa62.css.map": "/leetcode/static/css/main.5a27fa62.css.map",
+    "main.7c448eba.js.map": "/leetcode/static/js/main.7c448eba.js.map",
+    "453.660e556e.chunk.js.map": "/leetcode/static/js/453.660e556e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a27fa62.css",
+    "static/js/main.7c448eba.js"
+  ]
+}
